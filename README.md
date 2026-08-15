@@ -14,7 +14,6 @@ Created an Amazon Linux EC2 instance using OpenTofu.
 6. Checked the infrastructure plan using `tofu plan`.
 7. Created the EC2 instance using `tofu apply`.
 8. Verified the EC2 instance in the AWS Console.
-9. Removed the resources using `tofu destroy` after practice.
 
 ## Commands
 
@@ -33,5 +32,4 @@ tofu destroy
 * AWS EC2
 * Amazon Linux 2023
 * AWS Provider
-* SSM Parameter Store
 * `main.tf`
